@@ -23,9 +23,15 @@ public class Start {
         
     //https://leetcode.com/problems/reverse-integer/    
     var ri = new ReverseInteger();
-    int ResultReverseInteger = ri.reverse(123);
-    System.out.println(ResultReverseInteger);        
-        
+    int resultReverseInteger = ri.reverse(123);
+    System.out.println(resultReverseInteger);        
+     
+    //https://leetcode.com/problems/palindrome-number/
+    var pn = new PalindromeNumber();
+    boolean resultPalindromeNumber = pn.isPalindrome(2332);
+        System.out.println(resultPalindromeNumber);
+    
+    
     }
     
 }
