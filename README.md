@@ -1,6 +1,6 @@
 # Leetcode
 мои задачи
 
-Two Sum
-Palindrome Number
-Reverse Integer
+Two Sum<br>
+Palindrome Number<br><br>
+Reverse Integer<br>
