@@ -31,11 +31,16 @@ public class Start {
 //    boolean resultPalindromeNumber = pn.isPalindrome(2332);
 //    System.out.println(resultPalindromeNumber);
     
-   // https://leetcode.com/problems/number-of-valid-words-in-a-sentence/
-     var nv = new NumberOfWords();
-     int resultNumberOfWords = nv.countValidWords("he bought 2 pencils, 3 erasers, and 1  pencil-sharpener.");
-        System.out.println(resultNumberOfWords);   
+//   // https://leetcode.com/problems/number-of-valid-words-in-a-sentence/
+//     var nv = new NumberOfWords();
+//     int resultNumberOfWords = nv.countValidWords("he bought 2 pencils, 3 erasers, and 1  pencil-sharpener.");
+//        System.out.println(resultNumberOfWords);   
         
+  //https://leetcode.com/problems/power-of-two/
+  var pt = new PowerOfTwo();
+   boolean resultPowerOfTwo = pt.isPowerOfTwo(24);
+        System.out.println(resultPowerOfTwo);
+    
     }
     
 }
