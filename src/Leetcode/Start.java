@@ -15,11 +15,11 @@ public class Start {
      */
     public static void main(String[] args) {
 
-//    //https://leetcode.com/problems/two-sum/    
-//    var ts = new Two_Sum();   
-//    int[] nums = {2,7,11,15};
-//    int[] m = ts.twoSum(nums,9);
-//    System.out.println(m[0] + " "+m[1]);    
+    //https://leetcode.com/problems/two-sum/
+    var ts = new Two_Sum();
+    int[] nums = {2,7,11,15};
+    int[] m = ts.twoSum(nums,9);
+   System.out.println(m[0] + " "+m[1]);
 //        
 //    //https://leetcode.com/problems/reverse-integer/    
 //    var ri = new ReverseInteger();
